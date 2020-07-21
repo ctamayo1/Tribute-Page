@@ -1,0 +1,129 @@
+body{
+  background-image: url('https://savingantiquities.org/wp-content/uploads/2017/05/joan-of-arc-statue-philidephia-927x695.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+ 
+#main{
+  font-size: 30px;
+  text-align: center;
+  color: #906a09;
+  background-color: rgba(45, 45, 45, 5);
+  border-style: solid;
+  border-width: thick;
+  width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#name{
+  font-size: 20px;
+  text-align: center;
+  color: #906a09;
+  background-color: rgba(45, 45, 45, 5);
+  border-style: solid;
+  border-width: thick;
+  width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#img-div{
+ 
+}
+
+#img-caption{
+  font-size: 15px;
+  font-weight: bold;
+color: #906a09;
+  background-color: rgba(45, 45, 45, 5);
+  border-style: solid;
+  border-width: thick;
+  width: 300px
+}
+
+#image {
+   width: 300px;
+    margin: auto;
+    border-radius: 50%;
+}
+
+h1{
+  text-align: center;
+  padding: 20px 30px 10px;
+  font-size: 80px;
+  color: #906a09;
+  background-color: rgba(45, 45, 45, 5);
+  border-style: solid;
+  border-width: thick;
+  
+  
+}
+
+h3 {
+  background-color: rgba(45, 45, 45, 5);
+  color: #906a09;
+   font-size: 30px;
+  width: 420px;
+  text-align: center;
+   border-style: solid;
+  border-width: thick;
+}
+ h5 {
+   text-align: center;
+   font-size: 25px;
+   color: #906a09;
+  background-color: rgba(45, 45, 45, 5);
+  border-style: solid;
+  border-width: thick;
+   width: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+    
+#tribute-info{
+padding: 0px 0px 5px 20px;
+width: 400px;
+height: 400px;
+overflow: scroll;
+background-color: rgba(45, 45, 45, 5);
+border-style: solid;
+border-width: thick;
+color: #906a09;
+overflow: auto;
+}
+
+#tribute-link{
+  font-size: 15px;
+  color: black;
+}
+
+
+.orange-font{
+  color: orange;
+}
+
+#img-center {
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p{
+  font-weight: bold;
+  color:#906a09;
+  font-size: 25px;
+}
+
+#border {
+  border-color: red;
+    border-width: 5px;
+    border-style:
+}
+
